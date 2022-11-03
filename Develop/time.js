@@ -11,6 +11,6 @@ document.getElementById("btn-9").addEventListener('click', function(event){
 console.log(text);
 localStorage.setItem(id, text)
 
-if (current > 9)
-})
+
+});
 
